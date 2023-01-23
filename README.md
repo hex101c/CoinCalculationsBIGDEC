@@ -7,7 +7,7 @@ Imagine an infinite number of fair coins. Each coin is flipped once. If it lands
 2. Navigate to the project folder.
 3. Run this command:
 ```
-source plotEnv/bin/activate
+pip install matplotlib
 ```
 4. Run this command:
 ```
